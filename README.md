@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 
 I’m Marija Krotova, a **Software and Systems Engineering** student at LUT University with a passion for front-end development and technical problem-solving.
 
