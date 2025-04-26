@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**mashakrot/mashakrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Marija Krotova, a **Software and Systems Engineering** student at LUT University with a passion for front-end development and technical problem-solving.
 
-Here are some ideas to get you started:
+Over the past few years I’ve built responsive web apps and animated interfaces using **React, TypeScript, GSAP, Tailwind CSS** and **Node.js**, 
+and I love to learn new frameworks and APIs whenever I get the chance to bring ideas to life. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore my **[Portfolio](https://mashakrot-portfolio.framer.website/)** or repositories below to see projects like an **iPhone 15 clone, Brainwave AI landpage,** and **3D web elements** — 
+and feel free to connect if you’d like to collaborate or chat about code!
+
+### About
+
+- **Learning:** Full-Stack Development 
+- **Interests:** Front-end Animation, Web Architecture, Open-Source Contributions
+- **Languages and Frameworks:** JavaScript (ES6+), React, TypeScript, Python, Java, SQL, HTML & CSS  
+- **Hobbies:** Exploring new tech & Sport  
+
+
+### Contact or Explore:
+
+[Portfolio](https://mashakrot-portfolio.framer.website/) | [Email](mailto:marija.krotova@student.lut.fi) | [LinkedIn](https://www.linkedin.com/in/marija-krotova-361970160/
+) 
+
