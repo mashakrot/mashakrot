@@ -18,6 +18,6 @@ and feel free to connect if you’d like to collaborate or chat about code!
 
 ### Contact or Explore:
 
-[Portfolio](https://mashakrot-portfolio.framer.website/) | [Email](mailto:marija.krotova@student.lut.fi) | [LinkedIn](https://www.linkedin.com/in/marija-krotova-361970160/
-) 
+[Portfolio](https://mashakrot-portfolio.framer.website/) | [LinkedIn](https://www.linkedin.com/in/marija-krotova-361970160/
+)  | [Email](mailto:marija.krotova@student.lut.fi)
 
