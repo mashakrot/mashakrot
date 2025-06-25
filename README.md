@@ -2,7 +2,7 @@
 
 I’m Marija Krotova, a **Software and Systems Engineering** student at LUT University with a passion for front-end development and technical problem-solving.
 
-Over the past few years I’ve built responsive web apps and animated interfaces using **React, TypeScript, GSAP, Tailwind CSS** and **Node.js**, 
+Over the past few years I’ve built responsive web apps and animated interfaces using **React, Next.js, TypeScript, GSAP, Tailwind CSS** and **Node.js**, 
 and I love to learn new frameworks and APIs whenever I get the chance to bring ideas to life. 
 
 Explore my **[Portfolio](https://mashakrot.github.io/portfolio/)** or repositories below to see projects like an **iPhone 15 clone, Brainwave AI landpage,** and **3D web elements** — 
