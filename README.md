@@ -19,5 +19,5 @@ and feel free to connect if you’d like to collaborate or chat about code!
 ### Contact or Explore:
 
 [Portfolio](https://mashakrot.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/marija-krotova-361970160/
-) | [Works on Kaggle](https://www.kaggle.com/marykro)  | [Email](mailto:Marija.Krotova.dev@gmail.com) | [Telegram](https://t.me/m_krot)
+) | [Kaggle](https://www.kaggle.com/marykro)  | [Email](mailto:Marija.Krotova.dev@gmail.com) | [Telegram](https://t.me/m_krot)
 
