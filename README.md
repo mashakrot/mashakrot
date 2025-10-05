@@ -22,3 +22,4 @@ and feel free to connect if you’d like to collaborate or chat about code!
 ) | [Kaggle](https://www.kaggle.com/marykro)  
 [Email](mailto:Marija.Krotova.dev@gmail.com) | [Telegram](https://t.me/m_krot)
 
+![Profile views](https://komarev.com/ghpvc/?username=mashakrot&color=blue)
