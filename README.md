@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m Marija - a **Software and Systems Engineering** student at LUT University with a passion for software development and technical problem-solving.
-I enjoy building modern, user-friendly applications and to learn new frameworks.
+I enjoy building modern, user-friendly applications and learning new frameworks.
 
 💻 Over the past few years, I’ve:
 - Built responsive and interactive web apps with **React.js, Next.js, TypeScript, Tailwind CSS, GSAP**, and **Node.js**.
