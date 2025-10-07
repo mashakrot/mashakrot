@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Marija Krotova, a **Software and Systems Engineering** student at LUT University with a passion for software development and technical problem-solving.
+I’m Marija - a **Software and Systems Engineering** student at LUT University with a passion for software development and technical problem-solving.
 I enjoy building modern, user-friendly applications and to learn new frameworks.
 
 💻 Over the past few years, I’ve:
