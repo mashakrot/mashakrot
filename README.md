@@ -13,9 +13,9 @@ Explore my **[Portfolio](https://mashakrot.github.io/portfolio/)**, **[Kaggle](h
 
 ### About
 
-🎯 **Learning:** Full-Stack Development, Machine Learning & Data Analytics 
+🎯 **Focusing on:** Full-Stack Development, Machine Learning & Data Analytics 
 
-💡 **Interests:** Computer Vision and Animation, Open-Source Contributions
+💡 **Interests:** Computer Vision, Animation, Open-Source Contributions
 
 🛠️ **Languages and Frameworks:** Python, JavaScript (ES6+), React, TypeScript, .NET, SQL  
 
