@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Marija - a **Computer SCience** master's student at Aalto University with a passion for software development and technical problem-solving.
+I’m Marija - a **Computer Science** master's student at Aalto University with a passion for software development and technical problem-solving.
 I enjoy building modern, user-friendly applications and learning new frameworks.
 
 💻 Over the past few years, I’ve:
