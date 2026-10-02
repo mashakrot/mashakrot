@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Marija - a **Software and Systems Engineering** student at LUT University with a passion for software development and technical problem-solving.
+I’m Marija - a **Computer SCience** master's student at Aalto University with a passion for software development and technical problem-solving.
 I enjoy building modern, user-friendly applications and learning new frameworks.
 
 💻 Over the past few years, I’ve:
@@ -13,7 +13,7 @@ Explore my **[Portfolio](https://mashakrot.github.io/portfolio/)**, **[Kaggle](h
 
 ### About
 
-🎯 **Focusing on:** Full-Stack Development, Machine Learning & Data Analytics 
+🎯 **Focusing on:** Machine Learning & Data Analytics, Full-Stack Development 
 
 💡 **Interests:** Computer Vision, Animation, Open-Source Contributions
 
